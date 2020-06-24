@@ -1,6 +1,7 @@
 # adding-linux-user-and-group
 
-# This script is use to add new Group and add new users to the group. This script is based on one of the Challenge Labs in NDG Linux Essential Course.
+# This script is use to add new Group and add new users to the group. 
+# Based on NDG Linux Essentials - Challenge Lab B
 
 * Create a new group.
 * Create a new user for the group
