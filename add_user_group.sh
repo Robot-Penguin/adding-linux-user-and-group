@@ -54,7 +54,7 @@ echo -e "\033[1;33m######### ADD NEW USER ##########\x1B[0m"
 addNewUser
 
 
-# added via cmd
+
 ########################################################################
 # To be added                                                          #
 # Prevent user to input empty values when adding new group/user        #
